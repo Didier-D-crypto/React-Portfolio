@@ -15,12 +15,7 @@
     "resumedownload":"",
     "social":[
      
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      
+     
       {
         "name":"linkedin",
         "url":"http://linkedin.com/in/didier-delphin",
